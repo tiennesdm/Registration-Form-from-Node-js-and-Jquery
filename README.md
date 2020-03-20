@@ -1,7 +1,7 @@
 
 # Registration From Javascript and Jquery and Node js 
 
-This is a basic app which is exactly like bitly
+
 
 ## Getting Started
 
